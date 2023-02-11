@@ -231,6 +231,8 @@
 
 <section>
 
+	<h1>phpGrid Demo</h1>
+
 	<?php	
 	use phpCtrl\C_DataGrid;
 	require_once("../../phpGridx/conf.php");
